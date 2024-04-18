@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Jose Moreno.</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=EB1F6A&center=true&vCenter=true&random=false&width=435&lines=A+passionate+Front-end+developer+;and+cybersecurity+enthusiast++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=EB1F6A&center=true&vCenter=true&random=false&width=435&lines=A+passionate+Front-end+developer+;and+cybersecurity+enthusiast++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 
