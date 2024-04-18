@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jooseeeeee&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jooseeeeee&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://komarev.com/ghpvc/?username=jooseeeeee&color=EB1F6A&style=flat-square&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=jooseeeeee&color=EB1F6A&style=for-the-badge&abbreviated=true)
 
 
 ## Memes :)
