@@ -13,5 +13,3 @@
 ![](https://komarev.com/ghpvc/?username=jooseeeeee&color=EB1F6A&style=flat&abbreviated=true)
 
 
-## Memes :)
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
