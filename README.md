@@ -9,4 +9,4 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jooseeeeee&theme=monokai&hide_border=true)<br/>
-[![](https://visitcount.itsvg.in/api?id=jooseeeeee&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jooseeeeee&label=Profile%20Views&color=12&icon=0&pretty=false)]
